@@ -121,3 +121,8 @@ kramdown:
 feed:
   posts_limit: 5 #default posts_limit: 10
   excerpt_only: true
+
+# Manual addition using https://hydejack.com/docs/config/
+author:
+  name:  Yap Jun Hong (Nemo)
+  email: nemoyjh@protonmail.com
